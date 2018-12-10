@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AmazingProgress">
+        <attr name="innerBlockColor" format="color" />
+        <attr name="showTitle" format="boolean" />
+        <attr name="titleText" format="string" />
+        <attr name="titleSize" format="float" />
+        <attr name="showSubTitle" format="boolean" />
+        <attr name="subTitleText" format="string" />
+        <attr name="subTitleSize" format="float" />
+    </declare-styleable>
+</resources>
