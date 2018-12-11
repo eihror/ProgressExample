@@ -12,5 +12,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         progress.visibility = View.VISIBLE
+
+        progress.setShowTitle(true)
+        progress.setTitleText("Testando")
     }
 }
