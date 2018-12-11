@@ -16,14 +16,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="222d955f-9102-48b3-8223-b6c9d336d590" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/amazingprogress/amazingprogress.iml" beforeDir="false" afterPath="$PROJECT_DIR$/amazingprogress/amazingprogress.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazingprogress/src/main/java/com/eihror/amazingprogress/AmazingProgress.kt" beforeDir="false" afterPath="$PROJECT_DIR$/amazingprogress/src/main/java/com/eihror/amazingprogress/AmazingProgress.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazingprogress/src/main/java/com/eihror/amazingprogress/IAmazingProgress.kt" beforeDir="false" afterPath="$PROJECT_DIR$/amazingprogress/src/main/java/com/eihror/amazingprogress/IAmazingProgress.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazingprogress/src/main/res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/amazingprogress/src/main/res/values/attrs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazingprogress/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/amazingprogress/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eihror/progress/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eihror/progress/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -123,14 +116,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -3620,6 +3622,7 @@
         <option value="$PROJECT_DIR$/amazingprogress/src/main/java/com/eihror/amazingprogress/IAmazingProgress.kt" />
         <option value="$PROJECT_DIR$/amazingprogress/src/main/java/com/eihror/amazingprogress/AmazingProgress.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -3894,7 +3897,7 @@
       <window_info id="Build Variants" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="right" id="Preview" visible="true" weight="0.32956383" />
+      <window_info anchor="right" id="Preview" weight="0.32956383" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -3902,7 +3905,7 @@
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info anchor="bottom" id="Build" weight="0.32941177" />
       <window_info anchor="right" id="Gradle" weight="0.32956383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -4014,7 +4017,14 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
